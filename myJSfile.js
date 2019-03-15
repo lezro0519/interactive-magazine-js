@@ -1,3 +1,3 @@
 function myfunction(){
-document.getElementById("demo").innerHTML = "This is blah"
+document.getElementById("demo").innerHTML = "click this link to see my first vlog!"
 }

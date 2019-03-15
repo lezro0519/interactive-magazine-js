@@ -1,10 +1,34 @@
 body {
-  color: blue;
+  color: #283747;
+  background-color: #EAF2FE;  
 }
 
 h1{
-  color: pink;
+  color: #FF5733;
 }
 button {
-  background-color: cornsilk;
+  background-color: #F7DC6F;
+  margin-bottom: 20px;
+}
+img{
+  height:450px;
+  width:700px;
+}
+h1 {
+  font-family:Courier;
+}
+h1 {
+  font-size: 55px;
+}
+p {
+  font-family:Courier;
+}
+p {
+  font-size: 20px;
+}
+p {
+  text-align:center
+}
+button{
+  border: solid 2px black;
 }
